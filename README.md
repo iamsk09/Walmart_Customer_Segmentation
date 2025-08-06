@@ -1,4 +1,4 @@
-# 🧾 Customer Segmentation and Behavioral Analysis using FRM and Demographic Profiling
+# 🧾 Customer Segmentation and Behavioral Analysis using RFM and Demographic Profiling
 
 ## 📌 Overview
 This project performs customer segmentation for a Walmart dataset using **Frequency and Monetary (FM)** analysis along with demographic profiling. The goal is to identify distinct customer groups based on **purchase behavior** and **demographic traits**, enabling personalized marketing strategies and improving customer retention.
